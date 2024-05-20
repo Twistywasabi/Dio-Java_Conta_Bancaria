@@ -1,4 +1,4 @@
-💼 Projeto de conta Bancária baseado no curso DIO apresentado pelo professor Gleyson Sampaio.
+## 💼 Projeto de conta Bancária baseado no curso DIO apresentado pelo professor Gleyson Sampaio.
 
 ## Sintaxe - Desafio
 
@@ -25,4 +25,4 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 
 ###### Revise sobre concatenação e classe String com método concat
 
-🔗 https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
+## 🔗 https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe
